@@ -1,2 +1,1 @@
-# MLFQ
- 
+# Multi-level Feedback Queue solver
